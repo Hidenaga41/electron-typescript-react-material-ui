@@ -157,3 +157,8 @@ packages
 
 # Local History for Visual Studio Code
 .history/
+
+# package-lock
+.npmrc
+static
+package-lock.json
